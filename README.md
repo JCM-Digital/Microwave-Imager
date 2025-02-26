@@ -1,6 +1,6 @@
 # <div align="center">Radio Telescope Imaging and Scanning Scripts</div>
 
-This repository contains three Python scripts used for interfacing with a radio telescope system. Each script is designed to handle different aspects of the telescope's operation, including image generation, normalization, and raw data scanning. Key Python modules such as `matplotlib`, `PIL`, and `numpy` are utilized to manage image processing and data manipulation.
+This repository contains three Python scripts used for interfacing with a radio telescope system. The code should be used on any dish tailgaiter models built between 2011-2015. Each script is designed to handle different aspects of the telescope's operation, including image generation, normalization, and raw data scanning. Key Python modules such as `matplotlib`, `PIL`, and `numpy` are utilized to manage image processing and data manipulation.
 
 ## <div align="center">1. Dish Image Processing (`dish_image.py`)</div>
 
