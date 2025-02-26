@@ -1,10 +1,23 @@
 # <div align="center">Radio Telescope Imaging and Scanning Scripts</div>
 
+![Figure_1_Pano](https://github.com/user-attachments/assets/3f134054-87e4-404c-a625-02e1f25c0f7c)
+
+
 This repository contains three Python scripts used for interfacing with a radio telescope system. The code should be used on any dish tailgaiter models built between 2011-2015. Each script is designed to handle different aspects of the telescope's operation, including image generation, normalization, and raw data scanning. Key Python modules such as `matplotlib`, `PIL`, and `numpy` are utilized to manage image processing and data manipulation.
+
+![Figure_3_Hotwith text](https://github.com/user-attachments/assets/adc80713-2ffc-4b0f-9bf1-a90ccf688639)
+
+![McrowaveImagingresults_2-6-25](https://github.com/user-attachments/assets/5d7ad3a6-69da-4aa1-9bc0-138868f35e40)
+
 
 ## <div align="center">1. Dish Image Processing (`dish_image.py`)</div>
 
 This script processes the raw data from the radio telescope to generate visual representations of the scans using `matplotlib` and `numpy`. It handles file input, data manipulation, and visual output to create detailed heatmaps of the received signals.
+
+![Image 2-26-25 at 12 56 AM](https://github.com/user-attachments/assets/1caddd59-9613-4344-846a-b7a68e62fc0c) ![Image 2-26-25 at 12 57 AM](https://github.com/user-attachments/assets/b751221b-34dd-4e0d-abe7-76804d341b1e)
+
+![result-20250207-024810](https://github.com/user-attachments/assets/961c9046-e3b2-4714-bcb3-37dff2efc881)
+
 
 ### Features:
 - **Data Loading and Processing**: Utilizes `numpy` for numerical operations on the raw data.
@@ -14,6 +27,8 @@ This script processes the raw data from the radio telescope to generate visual r
 ## <div align="center">2. Dish Scan Normalization (`dish_scan_normalization.py`)</div>
 
 This script extends the functionality of the dish scanning by adding signal normalization and detailed image output. It uses `serial` for communication, `numpy` for numerical calculations, and `PIL` (Pillow) for image creation.
+
+![Figure_2Viridis](https://github.com/user-attachments/assets/5278d25f-2eca-405b-b615-24e6cbe602be)
 
 ### Features:
 - **Serial Communication**: Manages communication with the dish, sending commands and receiving responses.
