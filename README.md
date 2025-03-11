@@ -16,7 +16,7 @@ This script processes the raw data from the radio telescope to generate visual r
 
 ![Image 2-26-25 at 12 56 AM](https://github.com/user-attachments/assets/1caddd59-9613-4344-846a-b7a68e62fc0c) ![Image 2-26-25 at 12 57 AM](https://github.com/user-attachments/assets/b751221b-34dd-4e0d-abe7-76804d341b1e)
 
-![result-20250207-024810](https://github.com/user-attachments/assets/961c9046-e3b2-4714-bcb3-37dff2efc881)
+![IMG_0736](https://github.com/user-attachments/assets/bd6ff123-0049-4531-a0c5-231ed6183d7b)
 
 
 ### Features:
